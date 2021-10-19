@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+A few details in pointers --
 
 - 🔭 I’m currently working on real time deep learning algotithms for agricultural applications.
 - 👯 Mail me if you want to collborate on anything related to -- Computer Vision, Robotics, Reinforcement Learning
