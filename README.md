@@ -1,5 +1,5 @@
 ### Hi there 👋
-A few details in pointers --
+A few details in pointers:
 
 - 🔭 Working robust representations for RL. Deeply interested in large scale machine learning systems.
 - 👯 I am always open to interesing opportunities, esepcially if you are from an early stage startup.
